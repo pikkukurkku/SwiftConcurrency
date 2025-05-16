@@ -1,0 +1,24 @@
+{
+  "source": "/Users/nataliaogorek/Desktop/Concurrency_SwiftUI/Concurrency_SwiftUI/ActorsBootcamp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Home",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "Browse",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 93
+        }
+      }
+    ]
+  },
+  "version": 1
+}
