@@ -1,0 +1,54 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "0c4cd4b2445258fdbdbc74abdb19b8740e277203f43c0a5232273214d94f3b20"
+    },
+    {
+      "guid" : "0c4cd4b2445258fdbdbc74abdb19b874446f5cd12f20b72fd3c34a656e27159e"
+    },
+    {
+      "guid" : "0c4cd4b2445258fdbdbc74abdb19b87491fab5e315b5875049fc08ab8e0c9b78"
+    }
+  ],
+  "containerPath" : "/Users/nataliaogorek/Desktop/Concurrency_SwiftUI/Concurrency_SwiftUI.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/nataliaogorek/Desktop/Concurrency_SwiftUI/DerivedData/Concurrency_SwiftUI/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/nataliaogorek/Desktop/Concurrency_SwiftUI/DerivedData/Concurrency_SwiftUI/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/nataliaogorek/Desktop/Concurrency_SwiftUI/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/nataliaogorek/Desktop/Concurrency_SwiftUI/DerivedData/Concurrency_SwiftUI/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/nataliaogorek/Desktop/Concurrency_SwiftUI/DerivedData/Concurrency_SwiftUI/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/nataliaogorek/Desktop/Concurrency_SwiftUI/DerivedData/Concurrency_SwiftUI/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/nataliaogorek/Desktop/Concurrency_SwiftUI/DerivedData/Concurrency_SwiftUI/Build/Products",
+      "pchPath" : "/Users/nataliaogorek/Desktop/Concurrency_SwiftUI/DerivedData/Concurrency_SwiftUI/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

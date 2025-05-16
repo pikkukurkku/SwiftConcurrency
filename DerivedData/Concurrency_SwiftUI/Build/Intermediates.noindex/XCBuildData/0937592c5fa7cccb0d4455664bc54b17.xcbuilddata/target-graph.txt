@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'Concurrency_SwiftUI' in project 'Concurrency_SwiftUI' (no dependencies)

@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'Concurrency_SwiftUIUITests' in project 'Concurrency_SwiftUI' (no dependencies)
+Target 'Concurrency_SwiftUIUITests' in project 'Concurrency_SwiftUI'
+➜ Explicit dependency on target 'Concurrency_SwiftUI' in project 'Concurrency_SwiftUI'
+Target 'Concurrency_SwiftUIUITests' in project 'Concurrency_SwiftUI'
+➜ Explicit dependency on target 'Concurrency_SwiftUI' in project 'Concurrency_SwiftUI'
+Target 'Concurrency_SwiftUITests' in project 'Concurrency_SwiftUI' (no dependencies)
+Target 'Concurrency_SwiftUITests' in project 'Concurrency_SwiftUI'
+➜ Explicit dependency on target 'Concurrency_SwiftUI' in project 'Concurrency_SwiftUI'
+Target 'Concurrency_SwiftUITests' in project 'Concurrency_SwiftUI'
+➜ Explicit dependency on target 'Concurrency_SwiftUI' in project 'Concurrency_SwiftUI'
+Target 'Concurrency_SwiftUI' in project 'Concurrency_SwiftUI' (no dependencies)
+Target 'Concurrency_SwiftUI' in project 'Concurrency_SwiftUI' (no dependencies)

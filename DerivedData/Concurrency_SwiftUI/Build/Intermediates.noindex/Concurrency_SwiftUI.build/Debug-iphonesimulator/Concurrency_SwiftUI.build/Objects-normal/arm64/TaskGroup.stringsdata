@@ -1,0 +1,16 @@
+{
+  "source": "/Users/nataliaogorek/Desktop/Concurrency_SwiftUI/Concurrency_SwiftUI/TaskGroup.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Async Let 🥳",
+        "location": {
+          "startingColumn": 71,
+          "startingLine": 103
+        }
+      }
+    ]
+  },
+  "version": 1
+}

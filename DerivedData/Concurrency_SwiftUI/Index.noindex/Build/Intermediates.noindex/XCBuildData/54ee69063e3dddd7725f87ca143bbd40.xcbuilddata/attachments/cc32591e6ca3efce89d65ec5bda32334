@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/nataliaogorek/Desktop/Concurrency_SwiftUI/DerivedData/Concurrency_SwiftUI/Index.noindex/Build/Intermediates.noindex/Concurrency_SwiftUI.build/Debug-iphoneos/Concurrency_SwiftUITests.build/Objects-normal/arm64/Concurrency_SwiftUITests-master.d",
+    "diagnostics" : "/Users/nataliaogorek/Desktop/Concurrency_SwiftUI/DerivedData/Concurrency_SwiftUI/Index.noindex/Build/Intermediates.noindex/Concurrency_SwiftUI.build/Debug-iphoneos/Concurrency_SwiftUITests.build/Objects-normal/arm64/Concurrency_SwiftUITests-master.dia",
+    "emit-module-dependencies" : "/Users/nataliaogorek/Desktop/Concurrency_SwiftUI/DerivedData/Concurrency_SwiftUI/Index.noindex/Build/Intermediates.noindex/Concurrency_SwiftUI.build/Debug-iphoneos/Concurrency_SwiftUITests.build/Objects-normal/arm64/Concurrency_SwiftUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/nataliaogorek/Desktop/Concurrency_SwiftUI/DerivedData/Concurrency_SwiftUI/Index.noindex/Build/Intermediates.noindex/Concurrency_SwiftUI.build/Debug-iphoneos/Concurrency_SwiftUITests.build/Objects-normal/arm64/Concurrency_SwiftUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/nataliaogorek/Desktop/Concurrency_SwiftUI/DerivedData/Concurrency_SwiftUI/Index.noindex/Build/Intermediates.noindex/Concurrency_SwiftUI.build/Debug-iphoneos/Concurrency_SwiftUITests.build/Objects-normal/arm64/Concurrency_SwiftUITests-master.swiftdeps"
+  },
+  "/Users/nataliaogorek/Desktop/Concurrency_SwiftUI/Concurrency_SwiftUITests/Concurrency_SwiftUITests.swift" : {
+
+  }
+}

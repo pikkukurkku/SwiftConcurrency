@@ -1,0 +1,16 @@
+{
+  "source": "/Users/nataliaogorek/Desktop/Concurrency_SwiftUI/Concurrency_SwiftUI/TaskTutorial.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "CLICK ME! 🤓",
+        "location": {
+          "startingColumn": 73,
+          "startingLine": 52
+        }
+      }
+    ]
+  },
+  "version": 1
+}
